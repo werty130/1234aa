@@ -2,7 +2,8 @@
 
 int main(void)
 {
-	while(1);
+	printf("aaaaa");
+	printf("bbbbb");
 	return 0;
 }
 
